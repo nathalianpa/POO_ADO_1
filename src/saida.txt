@@ -1,0 +1,5 @@
+Região: Norte, PIB: 221.5
+Região: Nordeste, PIB: 551.0
+Região: Sudeste, PIB: 2294.0
+Região: Sul, PIB: 671.0
+Região: Centro-Oeste, PIB: 324.0
